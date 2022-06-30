@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Egg&color=1d6329&height=200&section=header&text=Tim%20Cook&fontColor=EDF4F5&fontSize=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=1d6329&height=200&section=header&text=Tim%20Cook&fontColor=EDF4F5&fontSize=55&animation=fadeIn)
 
 ### Business Analytics and Information Systems & Finance Major at The University Of Iowa
 ### - Executive Committe of Technology & Finance for Tippie Tech Innovation Club
