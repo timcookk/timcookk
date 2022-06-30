@@ -23,6 +23,7 @@
 - [Finding the most optimal flight out of Chicago O Hare Airport. ***SQL Project***](https://github.com/timcookk/ChicagoO-HareProject)
 
 [![timcook's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcookk&show_icons=true&theme=dark)](https://github.com/timcookk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcookk&layout=compact)](https://github.com/timcookk/github-readme-stats)
 
 [1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
