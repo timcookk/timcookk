@@ -21,7 +21,7 @@
 - [Data Mining Churn Rate Project. (R Programming Language and Rattle)](https://github.com/timcookk/Churn-Rate-Project)
 - [Do Elon Musk's tweets affect Tesla's stock price? (R Programming Language)](https://github.com/timcookk/Elon-Musk-Project)
 - [Finding the most optimal flight out of Chicago O Hare Airport. (SQL) ](https://github.com/timcookk/ChicagoO-HareProject)
-- [COVID-19 Vaccination Rate Project (Python)]
+- [COVID-19 Vaccination Rate Project (Python)] (https://github.com/timcookk/COVID-19-Vaccination-Project)
 - [Student Loan Assignment (Python)](https://github.com/timcookk/Student-Loan-Python-Assignment)
 
 
