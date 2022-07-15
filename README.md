@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=09143C&height=200&section=header&text=Tim%20Cook&fontColor=EDF4F5&fontSize=55&animation=fadeIn)
 
-### Business Analytics and Information Systems & Finance Major at The University Of Iowa
+### Business Analytics and Information Systems & Finance Major at The University Of Iowa:
 ### - Executive Committe of Technology & Finance for Tippie Tech Innovation Club
 ### - Some of my interests include: Chicago Sports, Golf, Music
 
