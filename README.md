@@ -2,7 +2,7 @@
 
 ### Business Analytics and Information Systems & Finance Major at The University Of Iowa:
 ### - Executive Committe of Technology & Finance for Tippie Tech Innovation Club
-### - Some of my interests include: Chicago Sports, Golf, Music
+### - Some of my interests include: Chicago Sports🏙, Golf⛳️, Music🎶
 
 ### Connect With Me:
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
