@@ -18,9 +18,12 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ### Recent Projects:
-- [Data Mining Churn Rate Project. ***R and Rattle Project***](https://github.com/timcookk/Churn-Rate-Project)
-- [Do Elon Musk's tweets affect Tesla's stock price? ***R Programming Language Project***](https://github.com/timcookk/Elon-Musk-Project)
-- [Finding the most optimal flight out of Chicago O Hare Airport. ***SQL Project***](https://github.com/timcookk/ChicagoO-HareProject)
+- [Data Mining Churn Rate Project. (R Programming Language and Rattle)](https://github.com/timcookk/Churn-Rate-Project)
+- [Do Elon Musk's tweets affect Tesla's stock price? (R Programming Language)](https://github.com/timcookk/Elon-Musk-Project)
+- [Finding the most optimal flight out of Chicago O Hare Airport. (SQL) ](https://github.com/timcookk/ChicagoO-HareProject)
+- [COVID-19 Vaccination Rate Project (Python)]
+- [Student Loan Assignment (Python)](https://github.com/timcookk/Student-Loan-Python-Assignment)
+
 
 [![timcook's GitHub stats](https://github-readme-stats.vercel.app/api?username=timcookk&show_icons=true&theme=dark)](https://github.com/timcookk/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timcookk&layout=compact)](https://github.com/timcookk/github-readme-stats)
