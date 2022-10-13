@@ -7,8 +7,6 @@
 ### Connect With Me:
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2].
 
-### Go-To's:
-
 ### Technologies and Tools:
 ![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
